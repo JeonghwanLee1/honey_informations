@@ -1,5 +1,3 @@
-# honey_informations
-
  ### AI 관련 정보
  - [Papers You Must Read(Korea Univ)](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
  - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
@@ -31,9 +29,7 @@
  - [MS](https://www.microsoft.com/en-us/research/blog/)
 
  
- 
- 
- ### 선형대수
+ ### 수학
   - 3blue1brwon linear algebra (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - 공돌이의 수학정리노트 (https://wikidocs.net/book/563)
  
