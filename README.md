@@ -10,6 +10,7 @@
  - [개발자 컨퍼런스, 해커톤 등 일정 git](https://github.com/brave-people/Dev-Event)
  - [Dive into deep learning(KOR)](https://ko.d2l.ai/)
  - [Trending research](https://paperswithcode.com/)
+ - [논문 읽는법(멘토)](https://www.notion.so/7da4ed56d8db4da3a7d2550682df3d81)
  
  ### 국내 기업 tech blog
  - [당근마켓](https://medium.com/daangn)
