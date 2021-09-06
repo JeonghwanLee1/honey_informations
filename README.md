@@ -29,7 +29,8 @@
  - [NVIDIA](https://www.nvidia.com/en-us/research/)
  - [MS](https://www.microsoft.com/en-us/research/blog/)
 
- 
+ ### clean code
+  - Python code guideline (https://dailyheumsi.tistory.com/222)
  ### 수학
   - 3blue1brwon linear algebra (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - 공돌이의 수학정리노트 (https://wikidocs.net/book/563)
